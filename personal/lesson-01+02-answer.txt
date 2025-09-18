@@ -1,0 +1,2 @@
+ls1: Answer: C (correct!)
+ls2: Answer: C (correct!), (A - static, B - instance), C (correct!)
