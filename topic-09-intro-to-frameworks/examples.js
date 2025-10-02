@@ -1,4 +1,4 @@
-<div id="app" class="container mt-4">
+{/* <div id="app" class="container mt-4">
   <h2>Counter Example</h2>
   <p>Count: {{ count }}</p>
   <button class="btn btn-primary" @click="count++">Increment</button>
@@ -11,4 +11,4 @@
       count: 0
     }
   });
-</script>
+</script> */}
