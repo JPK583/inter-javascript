@@ -53,8 +53,6 @@ setFlag()
 
 console.log(flag)
 
-use strict;
-
 i = 17
 
 function f() {
